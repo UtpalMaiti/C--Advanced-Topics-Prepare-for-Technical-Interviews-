@@ -1,0 +1,10 @@
+Collections
+Stack	=>It can Have Duplicate Value.LIFO (Last In First Out) order.
+Queue	=>It can Have Duplicate Value.FIFO (First In First Out) order.
+List	=> It can Have Duplicate Value
+LinkedList	=>It can have duplicate elements.
+SortedList	=>It stores values on the basis of key. It contains unique keys only.ascending order 
+HashSet	=>It doesn't Have Duplicate Value.Unique Only
+SortedSet	=>doesn't Have Duplicate Value.Unique Only.ascending order
+Dictionary	=>It stores values on the basis of key. It contains unique keys only. 
+SortedDictionary =>It stores values on the basis of key. It contains unique keys only.ascending order 
